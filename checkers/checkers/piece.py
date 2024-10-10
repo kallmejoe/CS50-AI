@@ -1,4 +1,4 @@
-from .definitions import RED,WHITE,SQUARE_SIZE,GRAY , CROWN;
+from ...definitions import RED,WHITE,SQUARE_SIZE,GRAY , CROWN;
 import pygame;
 class Piece:
     PADDING = 14;

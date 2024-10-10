@@ -1,5 +1,5 @@
 import pygame;
-from .definitions import RED,WHITE,SQUARE_SIZE,GRAY , CROWN;
+from ...definitions import RED,WHITE,SQUARE_SIZE,GRAY , CROWN;
 from checkers.board import Board;
 
 class game:
