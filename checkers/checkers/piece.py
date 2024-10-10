@@ -1,6 +1,6 @@
 from .definitions import RED,WHITE,SQUARE_SIZE,GRAY , CROWN;
 import pygame;
-class piece:
+class Piece:
     PADDING = 14;
     OUTLINE = 1.4;
     def __init__(self,row,col,color):
